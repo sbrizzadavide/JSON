@@ -30,3 +30,6 @@ L’utilizzo di un oggetto di classe **XMLHttpRequest**, la condizione `if` ed i
 * `parse`: metodo utilizzato per convertire la stringa restituita dal JSON in un array di oggetti
 * `open`: metodo creatore della richiesta che verrà inviata al web server
 * `send`: metodo che invia la richiesta al web server 
+
+#### Surprise!
+Note that you can find the same project done in JSP by @francescobaldan and other students [here](https://github.com/francescobaldan/JSON-Using-JSP).
